@@ -5,7 +5,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas 
 
 - 💼 Estagiário @blockbitsec
-- 💻 Experiência em Infraestrutura
+- 💻 Experiência em Infrae-strutura
 - 📚 Estudando Javascript
 - 👨🏽‍💻 Objetivo: Desenvolvimento Front-End
 
