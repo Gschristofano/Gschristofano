@@ -28,4 +28,10 @@
 
 ![Snake animation](https://github.com/Gschristofano/Gschristofano/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gschristofano}/count.svg" /></p> 
+<br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
