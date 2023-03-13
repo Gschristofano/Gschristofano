@@ -11,6 +11,9 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ##
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiGschristofanoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div>
   <a href="https://github.com/gschristofano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschristofano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
